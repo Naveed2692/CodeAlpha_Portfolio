@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    background-color: #FFCDEA;
+}
+
+.home{
+    color: white !important;
+}
+.nvb{
+    background-color: #86469C;
+    position: sticky;
+    top: 0;
+}
+.intro{
+    background-color: #FFCDEA;
+}
+div .intro img{
+    width: 300px;
+    height: 300px;
+    border: solid 3px black;
+    border-radius: 150px;
+    padding: 5px;
+    background-color: white;
+}
+div  img{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 2px;
+}
