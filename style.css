@@ -10,6 +10,7 @@ body{
     background-color: #86469C;
     position: sticky;
     top: 0;
+    z-index: 1000;
 }
 .intro{
     background-color: #FFCDEA;
@@ -57,3 +58,4 @@ div.card{
     background-color:#86469C;
 
 };
+
