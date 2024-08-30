@@ -43,3 +43,13 @@ div.about img{
 .about{
     align-items: center;
 }
+.icons i {
+    color: #86469C;
+    margin: 5px;
+  font-size: 30px;
+  width: 30px;
+  height: 30px;
+}
+.icons i:hover {
+  color: blue;
+}
